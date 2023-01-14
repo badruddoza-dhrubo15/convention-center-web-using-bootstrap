@@ -1,0 +1,48 @@
+.half-width {
+    width: 50%;
+}
+
+.icon-width {
+    height: 20px;
+    width: 20px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    background-color: blueviolet;
+}
+
+.packege-box {
+    height: 500px;
+    width: 400px;
+    /* background-color: aqua; */
+}
+
+.packege-box-highlight {
+    height: 500px;
+    width: 400px;
+    background-color: #3F87F5;
+}
+
+.button {
+    width: 250px;
+    height: 45px;
+    background-color: #f8acdce5;
+    border: none;
+}
+
+.clients-bg {
+    background-color: aliceblue;
+}
+
+.footer {
+    height: 300px;
+    background-color: black;
+}
+
+.copy-right {
+    margin-left: 168px;
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
